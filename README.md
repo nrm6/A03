@@ -1,7 +1,7 @@
 # A03
 
-##Webstorm Setup
+## Webstorm Setup
 
-##Git Setup
+## Git Setup
 
-##Github Setup
+## Github Setup
