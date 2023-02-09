@@ -1,2 +1,7 @@
 # A03
-Part 1: Bootstrap Directions
+
+##Webstorm Setup
+
+##Git Setup
+
+##Github Setup
