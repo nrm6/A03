@@ -1,4 +1,5 @@
 # A03
+# Part 1: Walkthrough
 
 ## Webstorm Setup
 
@@ -6,7 +7,7 @@
 
 ## Github Setup
 
-## Glossary
+# Part 2: Glossary
 + **Branch**-
 + **Clone**-
 + **Commit**-
