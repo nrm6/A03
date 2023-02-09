@@ -1,11 +1,23 @@
 # A03
 # Part 1: Walkthrough
 
-## Webstorm Setup
-
 ## Git Setup
++ Download the most recent version of Git.
+
+## Webstorm Setup
++ Download the sotware from Jetbrains.
++ Log in using a student account. 
++ Press (Ctrl+Alt+S) for preferences. 
++ Select Version control Git. Enter the path to the git.exe that was installed.
++ Once done, create a Hello World/ simple demo page.
++ In Webstorm, Commit the changes to Git, which will upload it to Github.
 
 ## Github Setup
++ Sign up for a Github account
++ Connect Github and Webstorm accounts in the Webstorm settings tab 
++ Create a new repository for files and name it 
++ Begin pushing and committing files
++ Set up the README.MD file and describe what the code is for.
 
 # Part 2: Glossary
 + **Branch**- A special repository that allows a user to edit and work on the main repository while not impacting the live/released version. 
@@ -22,7 +34,12 @@
 + **Repository**- A github folder that contains all of the project files and records changes.
 
 ### Resources
+https://njit.instructure.com/courses/27647/files/4486861?module_item_id=981475
 
-
+https://docs.github.com/en/get-started/quickstart/hello-world
 
 https://docs.github.com/en/get-started/quickstart/github-glossary#remote
+
+### Download Git and Webstorm
+https://git-scm.com/downloads
+https://www.jetbrains.com/student/
