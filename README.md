@@ -7,8 +7,8 @@
 ## Github Setup
 
 ## Glossary
-**Branch**-
-**Clone**-
++ **Branch**-
++ **Clone**-
 **Commit**-
 **Fetch**-
 **GIT**-
